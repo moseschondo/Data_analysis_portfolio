@@ -1,0 +1,25 @@
+body{
+    background-color: bisque;
+}
+h1{
+    color: blue;
+    font-size: 50px;
+}
+div{
+    position: relative;
+    float: right;
+}
+img{
+    height: 300px;
+    width: 300px;
+    border-radius: 20%;
+    position: relative;
+    float: right;
+    margin-right: 20px;
+
+}
+h2{
+    position: relative;
+    float: right;
+    flex-direction: column;
+}
